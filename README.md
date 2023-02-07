@@ -1,16 +1,21 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=mye280c37&fontSize=40&rotate=20&fontAlignY=40)
+
+## :wave: About ME
+:bookmark: Name: Kim Hyerin  
+🎓 Major: Computer Science & Engineering  
+🔭 Currently Working on : [Sogang University ICSL Lab](https://icslsogang.github.io/)  
+🌱 Learning : V2X, WLANs, NextJS, ReactJS  
+
+## :bookmark_tabs: History
+* The 13th SW Maestro 
+* Undergraduate Interns in Sogang University ICSL Lab
+* 검정고시 출신자 전문 진로 진학 홈페이지 MyUni Developer
 
 <!--
-**mye280c37/mye280c37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗃️ Skill
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+ -->
+ 
+## :chart_with_upwards_trend: Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mye280c37&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mye280c37&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)

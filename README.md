@@ -1,4 +1,6 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=mye280c37&fontSize=40&rotate=20&fontAlignY=40)
+-->
 
 ## :wave: About ME
 :bookmark: Name: Kim Hyerin  

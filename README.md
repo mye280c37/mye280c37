@@ -23,3 +23,6 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mye280c37&theme=material-palenight&hide_border=true&count_private=true&include_all_commits=true" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mye280c37&layout=compact&theme=material-palenight&hide_border=true&count_private=true" />
 </p>
+
+## :email: Contact Info
+[![Gmail Badge](https://img.shields.io/badge/-mye280c37@gmail.com-purple?style=flat-square&labelColor=purple&logo=Gmail&logoColor=white&link=,ailto:mye280c37@gmail.com)](mailto:mye280c37@gmail.com)

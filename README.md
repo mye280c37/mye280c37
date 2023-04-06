@@ -6,8 +6,9 @@
 :bookmark: Name: Kim Hyerin  
 🎓 Major: Computer Science & Engineering  
 🔭 Currently Working on : [Sogang University ICSL Lab](https://icslsogang.github.io/)  
-🌱 Learning : V2X, WLANs, NextJS, ReactJS.  
-🔖 Blog : [tistory - mye280c37](https://mye280c37.tistory.com/)
+🌱 Learning : V2X, WLANs, NestJS, ReactJS.  
+🖌️ Blog : [tistory - mye280c37](https://mye280c37.tistory.com/).  
+:email: Email : mye280c37@gmail.com 
 
 ## :bookmark_tabs: History
 * The 13th SW Maestro 
@@ -24,6 +25,3 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mye280c37&theme=material-palenight&hide_border=true&count_private=true&include_all_commits=true" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mye280c37&layout=compact&theme=material-palenight&hide_border=true&count_private=true" />
 </p>
-
-## :email: Contact Info
-[![Gmail Badge](https://img.shields.io/badge/-mye280c37@gmail.com-purple?style=flat-square&labelColor=purple&logo=Gmail&logoColor=white&link=,ailto:mye280c37@gmail.com)](mailto:mye280c37@gmail.com)

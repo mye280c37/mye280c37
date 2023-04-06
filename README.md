@@ -6,7 +6,8 @@
 :bookmark: Name: Kim Hyerin  
 🎓 Major: Computer Science & Engineering  
 🔭 Currently Working on : [Sogang University ICSL Lab](https://icslsogang.github.io/)  
-🌱 Learning : V2X, WLANs, NextJS, ReactJS  
+🌱 Learning : V2X, WLANs, NextJS, ReactJS.  
+🔖 Blog : [tistory - mye280c37](https://mye280c37.tistory.com/)
 
 ## :bookmark_tabs: History
 * The 13th SW Maestro 

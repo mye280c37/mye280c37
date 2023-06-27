@@ -19,9 +19,10 @@
 ## 🗃️ Skill
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
  -->
- 
+<!-- 
 ## :chart_with_upwards_trend: Github Stats
 <p>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mye280c37&theme=material-palenight&hide_border=true&count_private=true&include_all_commits=true" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mye280c37&layout=compact&theme=material-palenight&hide_border=true&count_private=true" />
 </p>
+ -->

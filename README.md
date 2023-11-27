@@ -17,7 +17,8 @@
 * 검정고시 출신자 전문 진로 진학 홈페이지 MyUni Developer, *2020-*
 
 ## :page_facing_up: Publications
-* Improving Spatial Reuse of Wireless LAN Uplink Using BSS Color and Proximity Information. Hyerin Kim and Jungmin So. MDPI Applied Sciences, 2021. [:point_right: shortcut](https://www.mdpi.com/2076-3417/11/22/11074) 
+* Improving Spatial Reuse of Wireless LAN Uplink Using BSS Color and Proximity Information. Hyerin Kim and Jungmin So. MDPI Applied Sciences, 2021. [:point_right: shortcut](https://www.mdpi.com/2076-3417/11/22/11074)
+* H. Kim, G. Na, H. Im and J. So, "Improving Spatial Reuse of Wireless LANs using Contextual Bandits," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2023.3328358. [:point_right: shortcut](https://ieeexplore.ieee.org/document/10309995)
 
 <!--
 ## 🗃️ Skill

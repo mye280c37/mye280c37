@@ -7,7 +7,7 @@
 🎓 Major: Computer Science & Engineering  
 🔭 Currently Working on : [SNU MCCL](http://mccl.snu.ac.kr/)  
 🌱 Learning : V2X, WLANs, NestJS, ReactJS.  
-🖌️ Blog : [tistory - mye280c37](https://mye280c37.tistory.com/).  
+🖌️ Blog : [tistory - mye280c37](https://mye280c37.tistory.com/). / [github blog](https://mye280c37.github.io/). 
 :email: Email : mye280c37@gmail.com (edu. : mye280c37@snu.ac.kr)
 
 ## :open_file_folder: History

@@ -11,7 +11,7 @@
 :email: Email : mye280c37@gmail.com (edu. : TBC)
 
 ## :open_file_folder: History
-* PhD Student / Researcher in Technical University of Munich *23025.09-Present*
+* PhD Student / Researcher in Technical University of Munich *2025.09-Present*
 * M.S. Student in Seoul National University MCCL, *2023.08-2025.08*
 * The 13th SW Maestro, *2022*
 * Undergraduate Interns in Sogang University [ICSL](https://icslsogang.github.io/), *2020-2023.08*

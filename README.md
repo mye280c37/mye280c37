@@ -6,12 +6,12 @@
 :bookmark: Name: Kim Hyerin  
 🎓 Major: Computer Science  
 🔭 Currently Working on : [Chair of Connected Mobility, Technical University of Munich (TUM)](https://www.ce.cit.tum.de/en/cm/home/)  
-📋 Keywords : Wireless Network, 5G/6G, MAC Layer, QoS Optimization, Reinforcement Learning    
+📋 Keywords : Wireless Network, 5G/6G, MAC Layer, Resource Allocation, QoS Optimization, Reinforcement Learning    
 🖌️ Blog : [tistory - mye280c37](https://mye280c37.tistory.com/). / [github blog](https://mye280c37.github.io/).  
 :email: Email : mye280c37@gmail.com (edu. : TBC)
 
 ## :open_file_folder: History
-* PhD Student/Researcher in Technical University of Munich *23025.09-Present*
+* PhD Student / Researcher in Technical University of Munich *23025.09-Present*
 * M.S. Student in Seoul National University MCCL, *2023.08-2025.08*
 * The 13th SW Maestro, *2022*
 * Undergraduate Interns in Sogang University [ICSL](https://icslsogang.github.io/), *2020-2023.08*
